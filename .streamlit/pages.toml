@@ -1,0 +1,25 @@
+[[pages]]
+path = "find_anpmaly01/relevance.py"
+name = "Home"
+icon = ":house:"
+
+[[pages]]
+path = "find_anomaly01/whoisclient.py"
+name = "2. Кто клиент?"
+icon = ":books:"
+
+[[pages]]
+path = "find_anomaly01/structure.py"
+name = "3. Структура."
+icon = "📖"
+
+[[pages]]
+path = "find_anomaly01/example.py"
+name = "4. Пример."
+icon = "✏️"
+
+
+[[pages]]
+path = "find_anomaly01/questions.py"
+name = "5. Вопросы"
+icon = "🧰"
